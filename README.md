@@ -1,7 +1,7 @@
    ### Welcome! I'm Robert Behrmann
    ##
 - 🔭 Atualmente fazendo diversas atividades/projetos para fixar o conteúdo que estou em constante aprendizado nas instituições listadas abaixo
-- 🌱 Cursando dev fullstack na instituição de ensino Infinity School e fazendo diversos cursos livres na Udemy do mesmo seguimento
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Estácio e fazendo diversos cursos livres na Udemy.
 <div align="center">
   <a href="https://github.com/Robertbehrmannjr">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Robertbehrmannjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
